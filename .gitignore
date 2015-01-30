@@ -1,0 +1,9 @@
+Berksfile.lock
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+*.tar.gz
+*cookbooks*

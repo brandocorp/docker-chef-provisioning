@@ -1,0 +1,8 @@
+{
+  "recipes": [
+    "nginx::package"
+  ],
+  "nginx": {
+    "daemon_disable": true
+  }
+}
